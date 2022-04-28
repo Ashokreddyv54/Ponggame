@@ -1,0 +1,35 @@
+
+My game structure:
+
+1. we need to create score board class.
+
+2.we need to create body for two bats and also we need to give them motion.
+
+3.we need to create a turtle ball that will move across the screen and it has to start randomly, and whenever to touches the bat and edges of the screen it need to bounce.
+
+4.when ever we miss the turtle score point have to increase opposite side and again new game starts.
+
+
+Insturctor game structure:
+
+1. create screen.
+
+
+2.create and move a paddle.
+
+
+3.create another paddle.
+
+
+4.create a ball and make it move.
+
+
+5.detect collision with wall and make it bounce.
+
+
+6.detect collide the paddle.
+
+
+7.detect when paddle misses the ball.
+
+8.keep score.
